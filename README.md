@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img src="assets/Git hub Coverr.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2); max-width: 100%;" />
+  <img src="assets/Github COver.png" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2); max-width: 100%;" />
 </div>
 
 ###
