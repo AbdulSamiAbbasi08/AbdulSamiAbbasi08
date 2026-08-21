@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">{ Abdul Sami }</h1>
+<h1 align="left">{ Abdul Sami Abbasi }</h1>
 
 ###
 
